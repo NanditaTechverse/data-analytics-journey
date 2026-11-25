@@ -3,6 +3,7 @@
 | Day | Date | Topics | Status |
 |---|---|---|---|
 | Day 1 | 23 Nov 2026 | Analytics introduction, Python basics | In Progress |
+| Day 2 | 25 Nov 2026 | Python practical programs, SQL fundamentals | Completed |
 
 ## Learning Goals
 
